@@ -31,7 +31,8 @@ Currently focusing on mastering these technologies:
 
   
 
-📈 GitHub Stats  
+📈 GitHub Stats    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=radical)
 
 
 ---
@@ -46,5 +47,4 @@ Currently focusing on mastering these technologies:
 
 *Thanks for visiting my profile!*  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=radical)
 
