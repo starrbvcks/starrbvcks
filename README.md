@@ -4,14 +4,13 @@ I'm Setareh, a Computer Engineering student on a journey to become a Backend Dev
 
 I believe in learning by building and documenting every step of my progress.  
 
-*not like blogging. I'm more into writing.   
+*not like blogging. I'm more into writing.     
 
-
----
-
-🛠 Tech Stack  
+---  
 
   
+🛠 Tech Stack  
+
 Currently focusing on mastering these technologies:  
 
 -**Languages:** Python (I'm being perfectionist about it)  
@@ -19,8 +18,6 @@ Currently focusing on mastering these technologies:
 -**Frameworks:** Django  
 
 -**Concepts:** System Design, Clean Architecture, REST APIs  
-
-  
 
   
 🚀 What I'm currently working on  
@@ -33,8 +30,7 @@ Currently focusing on mastering these technologies:
   
 
 📈 GitHub Stats    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrbvcks&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=radical)  
 
 
 ---
