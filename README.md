@@ -14,25 +14,27 @@ I believe in learning by building and documenting every step of my progress.
   
 Currently focusing on mastering these technologies:  
 
-**Languages:** Python (I'm being perfectionist about it)  
+-**Languages:** Python (I'm being perfectionist about it)  
 
-**Frameworks:** Django  
+-**Frameworks:** Django  
 
-**Concepts:** System Design, Clean Architecture, REST APIs  
+-**Concepts:** System Design, Clean Architecture, REST APIs  
 
   
 
+  
 🚀 What I'm currently working on  
 
   
 ***Projects:** Backend Foundations.   
-
+ 
 ***Learning:** Documenting my exploration for backend fundamentals.  
 
   
 
 📈 GitHub Stats    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrbvcks&layout=compact)
 
 
 ---
