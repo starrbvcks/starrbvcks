@@ -1,16 +1,30 @@
 ## Hi there 👋
 
 <!--
-**starrbvcks/starrbvcks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Setareh, a Computer Engineering student on a journey to become a Backend Developer. 
+I believe in learning by building and documenting every step of my progress.
+*not like blogging. I'm more into writing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+🛠 Tech Stack
+Currently focusing on mastering these technologies:
+**Languages:** Python
+**Frameworks:** Django
+**Concepts:** System Design, Clean Architecture, REST APIs
+
+🚀 What I'm currently working on
+***[Projects]:** Backend Foundations. 
+***Learning:** Documenting my exploration for backend fundamentals.
+
+📈 GitHub Stats
+
+---
+
+📫 How to reach me
+**LinkedIn:** Unfortunately my account has been suspended. 
+**Email:** Sstarehk@gmail.com
+
+*Thanks for visiting my profile!*
 -->
