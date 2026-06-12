@@ -44,4 +44,7 @@ Currently focusing on mastering these technologies:
 **Email:** Sstarehk@gmail.com  
 
 
-*Thanks for visiting my profile!*
+*Thanks for visiting my profile!*  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starrbvcks&show_icons=true&theme=radical)
+
